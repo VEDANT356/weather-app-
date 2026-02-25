@@ -29,5 +29,5 @@ A modern, responsive weather application that provides live weather updates and 
 3. The app fetches real-time weather data from the API
 4. Weather details are displayed instantly
 
-____author:- 
+___author__:- 
 VEDANT KOTKAR.
