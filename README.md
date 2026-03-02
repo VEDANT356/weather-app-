@@ -1,21 +1,21 @@
-🌤️ Weather Forecast App
+🌦️ Weather Forecast App
 
-A modern, fully responsive Weather Web Application that provides real-time weather updates and a 5-day forecast for cities worldwide.
+A modern, fully responsive Weather Web Application that delivers real-time weather updates and a structured 5-day forecast for cities worldwide.
 
-Designed with a strong focus on clean UI/UX, performance optimization, and seamless API integration, this application delivers accurate weather insights through a visually dynamic and intuitive interface.
+Built with a strong focus on clean UI/UX, performance optimization, and scalable architecture, this application provides accurate weather insights through a dynamic and intuitive interface.
 
-🌟 Live Features
+🚀 Live Features
 🌍 Global City Search
 
 Search and retrieve real-time weather data for 200,000+ cities worldwide.
 
 📍 Geolocation Support
 
-Fetch weather data for your current location instantly using the browser’s Geolocation API.
+Instantly fetch weather data for your current location using the Browser Geolocation API.
 
 📊 Detailed Weather Metrics
 
-Displays comprehensive weather information including:
+Comprehensive weather insights including:
 
 🌡️ Current Temperature
 
@@ -31,7 +31,7 @@ Displays comprehensive weather information including:
 
 📅 5-Day Forecast
 
-Structured daily forecast view to help users plan ahead efficiently.
+Structured daily forecast view for better planning and usability.
 
 🎨 Dynamic Weather-Based UI
 
@@ -39,11 +39,11 @@ Background themes change based on weather conditions
 
 Dynamic weather icons (Sunny, Rainy, Cloudy, Snowy, etc.)
 
-Smooth UI updates for better user experience
+Smooth state-based UI updates
 
 📱 Fully Responsive Layout
 
-Optimized across:
+Optimized for:
 
 📱 Mobile
 
@@ -53,19 +53,23 @@ Optimized across:
 
 ⚡ Optimized API Performance
 
-Efficient asynchronous requests using async/await with proper error handling and loading states.
+Efficient asynchronous requests using async/await
+
+Proper loading states
+
+Error handling for invalid inputs & failed API calls
 
 🛠️ Tech Stack
 
 HTML5 – Semantic Structure
 
-CSS3 – Responsive Layout & Styling
+CSS3 – Responsive Layout & Adaptive Design
 
-Vanilla JavaScript – Logic & DOM Manipulation
+Vanilla JavaScript – Application Logic & DOM Manipulation
 
-Fetch API – Asynchronous Data Fetching
+Fetch API – Asynchronous Data Handling
 
-OpenWeatherMap API – Weather Data Integration
+OpenWeatherMap API – Real-Time Weather Data
 
 🧠 Core Concepts Demonstrated
 
@@ -83,7 +87,7 @@ Error Handling & Input Validation
 
 Responsive Design Principles
 
-State-Based UI Updates
+State-Based UI Architecture
 
 ⚙️ Application Workflow
 
@@ -93,7 +97,7 @@ The app sends an API request to the weather service.
 
 Weather data is received in JSON format.
 
-Current weather and 5-day forecast are extracted.
+Current weather and 5-day forecast are processed.
 
 UI updates dynamically based on weather conditions.
 
