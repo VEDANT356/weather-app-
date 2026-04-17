@@ -97,6 +97,7 @@ Optimized for multiple devices:
 
 ---
 
+
 # 👨‍💻 AUTHOR
 
 **Vedant Kotkar**  
