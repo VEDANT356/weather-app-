@@ -90,14 +90,6 @@ Optimized for multiple devices:
 
 ---
 
-# 📌 PROJECT STATUS
-
-🟢 **Production Ready**  
-🔄 Continuously improving and adding new features.
-
----
-
-
 # 👨‍💻 AUTHOR
 
 **Vedant Kotkar**  
