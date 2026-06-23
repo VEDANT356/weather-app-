@@ -47,13 +47,6 @@ Optimized for all screen sizes:
 * 📲 Tablets
 * 💻 Desktop Systems
 
-## ⚡ Performance Optimized
-
-* Asynchronous API requests using **async/await**
-* Efficient data fetching and rendering
-* Loading indicators for better user experience
-* Robust error handling and input validation
-
 ---
 
 # 🛠️ TECH STACK
@@ -108,4 +101,20 @@ Optimized for all screen sizes:
 **Vedant Kotkar**
 Computer Science Student | Frontend Developer
 
+#### Skills
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* API Integration
+* Responsive Web Design
+
+#### Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/vedant-kotkar-48976236b/
+
+GitHub:
+https://github.com/VEDANT356
 
