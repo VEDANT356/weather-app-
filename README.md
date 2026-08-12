@@ -112,27 +112,7 @@ Weather-App/
 
 ---
 
-# ⚙️ Installation
 
-Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-Navigate to the project folder
-
-```bash
-cd weather-app
-```
-
-Open the project
-
-```bash
-Open index.html in your browser
-```
-
----
 
 # 🔮 Future Improvements
 
